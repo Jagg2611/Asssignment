@@ -116,8 +116,8 @@ function App() {
   const priorityImages = {
     0: "/images/No-priority.png",
     1: "/images/UrgentOrange.png",
-    2: "/images/Medium.png",
-    3: "/images/high.png",
+    2: "/images/High.png",
+    3: "/images/Medium.png",
     4: "/images/Low.png",
   };
 
