@@ -115,10 +115,10 @@ function App() {
   // Mapping of priority levels to image paths
   const priorityImages = {
     0: "/images/No-priority.png",
-    1: "/images/Low.png",
+    1: "/images/UrgentOrange.png",
     2: "/images/Medium.png",
     3: "/images/high.png",
-    4: "/images/UrgentOrange.png",
+    4: "/images/Low.png",
   };
 
   // Mapping of status levels to image paths
@@ -126,8 +126,8 @@ function App() {
     Todo: "/images/To-do.png",
     "In progress": "/images/inProgress.png",
     Backlog: "/images/Backlog.png",
-    Done: "/images/done.png",
-    Cancelled: "/images/cancelled.png",
+    Done: "/images/Done.png",
+    Cancelled: "/images/Cancelled.png",
   };
 
   // Helper function to get the keys in the right order
